@@ -130,13 +130,10 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-<<<<<<< HEAD
 # bot
 token_bot.txt
-=======
 # Libraries
 .libraries
 
 # Telegram token
 token.csv
->>>>>>> 596390d574af8023e4cf468b551e07ed1a90f9e4
